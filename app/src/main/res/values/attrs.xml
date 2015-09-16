@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArrowViewPagerIndicator">
+        <attr name="lineColor" format="color"/>
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="base" format="dimension"/>
+        <attr name="leg" format="dimension"/>
+        <attr name="vertex" format="dimension"/>
+    </declare-styleable>
+</resources>
